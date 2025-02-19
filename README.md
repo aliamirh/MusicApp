@@ -25,12 +25,14 @@ At this stage of development, the app must be compiled manually. Before proceedi
 ### Known Issues
 
 - **Incomplete File Fetching**: The backend currently only reads basic metadata from the local music files. More complex functionality, like song metadata and cover images, is planned for future updates.
+- **Desktop App Configuration Fetching**: Certain desktop app environments have errors when fetching local files.
 
 ### Future Plans
 
 - **Online Radio Support**: Browse and listen to online radio stations or open music libraries.
 - **Companion Mobile App**: Real-time connection with a companion mobile app for remote control and interaction.
 - **Song and Album Metadata Fetching**: Integration with music metadata APIs to fetch song/album details such as release date, artist bios, and cover art.
+- **Work on desktop functionality**: Select and play music with desktop application.
 
 ### Contribution
 
